@@ -1,6 +1,8 @@
 # AGhastlyAdventure
 Ashlyn Parsons' Adventure Game Assignment from Intro to Programming FA2020
 
+![Image of Game](https://raw.githubusercontent.com/aparsons2/AGhastlyAdventure/main/AGhastlyAdventureTitleScreenShot.PNG)
+
 ## Game Overview
 You go to a haunted house in search of a rumored candy stash on halloween night, unfortunately for you, the ghosts in the manor are a little less than willing to let you take it.  Can you really trust a ghost to help you claim your prize?
 
